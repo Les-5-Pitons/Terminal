@@ -1,7 +1,7 @@
 # TERMINAL
 
 <!-- Bannderole / Bande-annonce -->
-![](banderole-bande-annonce.jpg)
+![](banderole-bande-annonce.webp)
 
 ## Description
 
