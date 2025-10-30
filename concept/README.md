@@ -92,11 +92,8 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 Images inspirantes
 Représentations visuelles de l'ambiance recherchée, que ce soit à travers des photographies, des illustrations, ou des œuvres existantes.
 
-
 Palette de couleurs
 Choix de couleurs qui influenceront l’éclairage, les médias projetés, ou l’interface visuelle.
-
-
 
 Références multimédia
 Vidéos, musiques ou sons, séquences animées qui capturent l’énergie ou la tonalité souhaitée pour l'installation.
