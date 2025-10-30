@@ -1,7 +1,7 @@
 # TERMINAL
 
 <!-- Bannderole / Bande-annonce -->
-![]( ./medias/banderole-bande-annonce.jpg)
+![](banderole-bande-annonce.jpg)
 
 ## Description
 

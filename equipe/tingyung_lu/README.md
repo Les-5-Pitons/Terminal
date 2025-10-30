@@ -1,6 +1,6 @@
 # Ting Yung Lu Terry
 
-![]( https://placehold.co/600x400?text=membre+v)
+![](../tingyung_lu.webp)
 
 
  <!--
