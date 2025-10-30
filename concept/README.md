@@ -6,7 +6,7 @@
 
 <!-- Méthode 1 -->
 <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/ABWCq8j8qys"
+  src="https://www.youtube.com/embed/S0HuyAs4G5k?si=4g17DAnrrll7XO7B"
   title="YouTube video"
   frameborder="0"
   allowfullscreen>
@@ -24,7 +24,11 @@
 
 ## L'expérience
 
+En entrant dans le grand studio, les personnes prennent une manette et regardent la projection sur le mur. L écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre avec un niveau tutoriel: chacun bouge son curseur, une ligne suit sa trajectoire et devient un obstacle pour les autres. Les joueurs réalisent vite qu ils doivent communiquer, se laisser de l espace et s entraider pour ouvrir des passages. Si quelqu un est éliminé, tout le monde recommence le niveau: on apprend par essais et erreurs, ensemble. Plus on avance, plus les niveaux combinent de nouvelles mécaniques et montent en difficulté, créant des moments de tension, de rire et de coopération.
+
 ### Le parcours de l'interacteur
+
+En entrant dans le studio, l'interacteur prend une manette et voit son curseur coloré apparaître sur la projection. Les premiers niveaux tutoriels lui montre l'essentiel: se déplacer au joystick et maintenir un bouton pour activer des éléments. Il expérimente, réalise que sa trace reste et devient un obstacle, puis ajuste sa trajectoire et son rythme. Très vite, il se coordonne avec les autres: annoncer son passage, ouvrir un bouton-porte pour un coéquipier, attendre la bonne fenêtre de timing face aux obstacles mobiles. À chaque élimination, toute l'équipe redémarre, ce qui pousse à observer, proposer une stratégie et mieux se synchroniser. De niveau en niveau, il découvre une nouvelle mécanique, combine celles déjà apprises, gagne en précision et en communication, jusqu'à ce que les six joueurs franchissent ensemble la sortie et enchaînent vers un niveau plus exigeant.
 
 <!-- 
 Comportement de l’interacteur
@@ -34,15 +38,21 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 ### L'espace
 
+Le projet se déroule dans le grand studio avec une large projection au mur. Au sol, une zone dégagée permet aux joueurs de se regrouper devant l'écran, tandis que six manettes sont posées sur une table (ou distribuées) près de l'entrée. La lumière est douce pour garder le focus sur l'image projetée, et le son provient de haut-parleurs proches de l'écran pour renforcer la sensation d'immersion. Dans l'espace virtuel, l'aire de jeu est claire et contrastée: chaque joueur a une couleur distincte, son curseur est bien visible et sa trace l'est aussi. Les éléments interactifs (boutons, portes, obstacles mobiles) sont lisibles à distance et répondent immédiatement aux actions des manettes. Le réel et le virtuel se rejoignent simplement: la manette contrôle directement le curseur de même couleur, les retours visuels et sonores confirment chaque action.
+
 <!-- 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
 
 ### La progression
 
+Le premier niveau est un petit tutoriel. Ensuite, à chaque nouveau niveau, les joueurs découvre une nouvelle mécanique. Une fois toutes les mécaniques présentées, les niveaux suivants les combinent, idéalement générés aléatoirement. Plus on avance, plus les niveaux deviennent difficiles. 
+
 <!--  sur le temps et la progression -->
 
 ### L'aspect collectif
+
+***TERMINAL*** est pensé pour le collectif: jusqu'à six personnes jouent en même temps, avec un objectif unique et partagé. Chaque joueur contrôle un curseur, mais la trace qu'il laisse influence tout le groupe. La réussite dépend de la coordination: ouvrir un passage pour un autre, attendre son tour, choisir qui mène et qui sécurise. Si une personne est éliminée, tout le monde recommence: la responsabilité est vraiment commune. Le level design encourage la coopération avec des boutons à tenir, des timings à synchroniser et des zones étroites à négocier ensemble. Le projet transforme un groupe d'individus en une équipe qui apprend, s'ajuste et progresse ensemble.
 
 <!-- 
 comment votre idée de projet correspond au thème du COLLECTIF 
@@ -54,6 +64,8 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
 -->
 
 ### L'aspect social
+
+Le jeu crée des interactions directes: on parle, on négocie des stratégies, on s'excuse quand on bloque un coéquipier, on se répartit les rôles. Les boucles d'essai-erreur favorisent l'écoute et la bienveillance: on observe ce qui a raté, on propose une autre approche, on réessaie. La règle de redémarrage collectif renforce l'entraide et évite le chacun pour soi. L'entrée en matière est simple (prendre une manette, bouger), ce qui inclut rapidement des profils variés et met l'accent sur la collaboration plutôt que la performance individuelle. Peu à peu, la confiance s'installe: les joueurs anticipent les mouvements des autres, communiquent mieux et vivent une réussite commune qui rapproche le groupe.
 
 <!-- 
 comment votre idée de projet correspond au thème du SOCIAL 
