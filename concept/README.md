@@ -126,6 +126,8 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 ## Scénarimage
 
+![](scenarimage.png)
+
 <!-- Pour chaque étape/scène : une image avec du texte descriptif et une explication de la transition -->
 
 <!--
