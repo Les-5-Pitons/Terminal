@@ -76,23 +76,27 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
 
-## Inspirations
+## Inspirations visuelles et sonores
 
-### Inspirations visuelles et sonores
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/vQTmKqbrNu8?si=gHKiRMcFw6PKaG9J&amp;start=58"
+  title="YouTube video"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
-### Images inspirantes
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/XEp8G2HtDJM?si=REjQSpy_p-t_N__c"
+  title="YouTube video"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ![](inspirations.webp)
 
-### Palette
 ![](palette.webp)
 
-### Références multimédia
-
-
-### Textures et matériaux
-
-
-### Ambiance sonore et lumineuse
+![](controller.webp)
 
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
