@@ -65,7 +65,9 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
 
 ### L'aspect social
 
-Le jeu crée des interactions directes: on parle, on négocie des stratégies, on s'excuse quand on bloque un coéquipier, on se répartit les rôles. Les boucles d'essai-erreur favorisent l'écoute et la bienveillance: on observe ce qui a raté, on propose une autre approche, on réessaie. La règle de redémarrage collectif renforce l'entraide et évite le chacun pour soi. L'entrée en matière est simple (prendre une manette, bouger), ce qui inclut rapidement des profils variés et met l'accent sur la collaboration plutôt que la performance individuelle. Peu à peu, la confiance s'installe: les joueurs anticipent les mouvements des autres, communiquent mieux et vivent une réussite commune qui rapproche le groupe.
+Dans ***TERMINAL***, de un à six opérateurs se connectent à un ancien système informatique en veille, vestige d’un réseau oublié. Leur mission : réactiver les passerelles du terminal et rétablir la circulation des données perdues. Chaque niveau correspond à un secteur corrompu qu’il faut restaurer en atteignant la sortie, tout en évitant les pièges, les zones d’erreur et les fragments instables du code.
+
+Chaque mouvement laisse une trace lumineuse persistante, une ligne de données qui façonne le monde mais peut aussi le bloquer. Les joueurs doivent donc planifier, communiquer et ajuster leurs trajectoires pour ne pas piéger les autres. Seul, l’interacteur affronte la logique du système ; à plusieurs, ils apprennent à synchroniser leurs actions pour reconstruire l’ordre du réseau.
 
 <!-- 
 comment votre idée de projet correspond au thème du SOCIAL 
