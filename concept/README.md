@@ -100,6 +100,23 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 
 ![](controller.webp)
 
+[SFX Menu](sfx_menu.mp3)
+[SFX Interface](sfx_interface.mp3)
+[SFX Interface 2](sfx_interface_2.mp3)
+[SFX Glitch](sfx_glitch.mp3)
+[SFX Glitch](sfx_glitch_2.mp3)
+[SFX A](sfx_a.mp3)
+[SFX B](sfx_b.mp3)
+[SFX Distort](sfx_distort.mp3)
+[SFX Text Alert](sfx_text_alert.mp3)
+[SFX Completed](sfx_completed.mp3)
+[SFX Ambiance](sfx_ambiance.mp3)
+[SFX Data Processing](sfx_data_processing.mp3)
+[SFX Eliminated](sfx_eliminated.mp3)
+[SFX Ambiance Menu](sfx_ambiance_menu.mp3)
+[Background music](bg_music.mp3)
+
+
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
