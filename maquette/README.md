@@ -1,43 +1,110 @@
-# Maquette (faisabilité)
+# Scénarisation
 
-<!--
-https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/
+## Scène 1
 
-# Maquette
+| Verbe Action              | Condition de déclenchement                                                                                                                                                                                |                                                                                                                                                                                                                  Effet visuel |                                                                                                              Effet sonore |                                                Effet interactif |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------: |
+| S'asseoir et se connecter | Le joueur s'asseoit et se connecte avec son téléphone grâce à un code QR qu'il va balayer et se connecte au wifi de notre jeu. L'interface de manette sur son téléphone sera afficher dans un navigateur. | Il voit son appareil qui se transforme en manette et voit qu'un nom et une couleur lui est assigné sur son appareil. Quand il est dans le menu, il peut visuellement voir tous les joueurs qui sont présentement dans le jeu. |     Il entend la musique du jeu du menu. Quand un joueur se connecte, un effet sonore se fait entendre pour tout le monde | Ajout d'un joueur dans le jeu et connection wifi pour le joueur |
+| Partir et se déconnecter  | Le joueur part et se déconnecte de son téléphone quand il perd connection du navigateur.                                                                                                                  |                                                                                                                                                               Il voit visuellement dans le menu qu'il n'est plus dans le jeu. |                                Tout le monde entend le son de déconnection d'un joueur. La musique du menu joue toujours. |                                 Retire d'un joueur dans le jeu. |
+| Cliquer sur 'Jouer'       | Le joueur clique sur le bouton 'Jouer'                                                                                                                                                                    |                                                                                                                                   Il voit la scène afficher, avec le projecteur, changer du menu principal au premier niveau. | Il entend un bruit SFX de bouton et la musique du menu qui graduellement change à la musique d'ambiance du premier niveau |                              La scène change au premier nouveau |
+| Cliquer sur 'Tutoriel'    | Le joueur clique sur le bouton 'Tutoriel'                                                                                                                                                                 |                                                                                                                     Il voit la scène afficher, avec le projecteur, changer du menu principal au menu qui affiche le tutoriel. |                                                                   Il entend un bruit SFX de bouton et la musique du menu. |                         La scène change à la scène de tutoriel. |
+| Cliquer sur 'Crédits'     | Le joueur clique sur le bouton 'Crédits'                                                                                                                                                                  |                                                                                                                     Il voit la scène afficher, avec le projecteur, changer du menu principal au menu qui affiche les crédits. |                                                                   Il entend un bruit SFX de bouton et la musique du menu. |                           La scène change à la scène de crédit. |
 
-## Importance de la maquette dans les projets multimédias
-Une maquette permet de déterminer si un projet est réalisable sur les plans technique, économique et opérationnel. Elle aide à identifier les obstacles potentiels et à planifier les ressources nécessaires. Dans le contexte des technologies interactives, où les innovations sont rapides et les attentes des utilisateur·rice·s élevées, cette démarche devient encore plus critique.
+## Scène 2
 
-## Étapes clés de la maquette
+| Verbe Action                 | Condition de déclenchement                                                                                   |                                                                                                                                    Effet visuel |                                                                                                   Effet sonore |                                                                                                                                                                                   Effet interactif |
+| :--------------------------- | :----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Cliquer sur 'Menu'           | Durant le jeu, le joueur clique sur le bouton menu                                                           |                                                                                                                                 Le menu s'ouvre |                                                                       Un effet sonore de menu se fait entendre |                                                                                                                                                                    Le menu est affiché sur l'écran |
+| Cliquer sur 'Menu'           | Dans le menu, le joueur reclique sur le bouton menu                                                          |                                                                                                                                Le menu se ferme |                                                                       Un effet sonore de menu se fait entendre |                                                                                                                                                                     Le jeu est affiché sur l'écran |
+| Cliquer sur 'Bouton'         | Dans le menu, le joueur clique sur le bouton sélection                                                       |                                                                                                                     Le menu sélectionné s'ouvre |                                                                  Un effet sonore de sélection se fait entendre |                                                                                                                                                        Le menu séléctionné est affiché sur l'écran |
+| Cliquer sur 'Flèches'        | Dans le menu, le joueur clique sur les flèches directionnelles pour se déplacer dans le menu                 |                                                                                                                    Change le bouton séléctionné |                                                                Un effet sonore de déplacement se fait entendre |                                                                                                                                             Change le bouton séléctionné pour l'éventuel sélection |
+| Cliquer sur 'Flèches'        | Durant le jeu, le joueur clique sur les flèches directionnelles                                              |                                                                                  L'avatar du joueur se déplace en fonction de la flèche cliquée |                                                      Un effet sonore de déplacement de joueur se fait entendre |                                                                                                 Le joueur se déplace dans le jeu et une ligne se créer quand il se déplace qui devient un obstacle |
+| Élimination                  | Durant le jeu, le joueur fonce sur un obstacle ou dans un autre joueur                                       |                                                                      Flash rouge sur l'écran quand un joueur meurt et ouvre écran d'élimination |                     Un effet sonore fort quand il meurt et une musique de défaite sur le menu se fait entendre |                                                                                                                                                   Le menu de d'élimination est affiché sur l'écran |
+| Cliquer sur 'Recommencer'    | Dans le menu d'élimination, le joueur clique sur le bouton Recommencer                                       |                                                                                                                           Le niveau est affiché |                                                                  Un effet sonore de sélection se fait entendre |                                                                                                                                              Recommence le niveau et affiche le niveau sur l'écran |
+| Cliquer sur 'Menu Principal' | Dans le menu d'élimination, le joueur clique sur le bouton Menu Principal                                    |                                                                                                                       Affiche le menu principal |                                                                  Un effet sonore de sélection se fait entendre |                                                                                                                    Affiche le menu principal sur l'écran et reset toute les données d'avant du jeu |
+| Réussir Niveau               | Durant le jeu, tout les joueurs se rendent à la fin sans être éliminé                                        |                                                            Flash de couleur sur l'écran quand un joueur meurt et ouvre écran de prochain niveau | Un effet sonore fort quand il gagne et une musique de victoire sur le menu de prochain niveau se fait entendre |                                                                                                                                                 Le menu de prochain niveau est affiché sur l'écran |
+| Cliquer sur 'Continuer'      | Dans le menu de prochain niveau, le joueur clique sur le bouton Continuer                                    |                                                                                                                  Le prochain niveau est affiché |                                                                  Un effet sonore de sélection se fait entendre |                                                                                                                                                         le prochain niveau est affiché sur l'écran |
+| Finir (1 Joueur)             | Dans le jeu, un joueur se rend jusqu'au point final                                                          |                                                                                               L'avatar du joueur disparait, mais sa ligne reste |                                                                 Un effet sonore de Finisition se fait entendre |                                                                                    Rajouter le joueur dans ceux qui on finit et le joueur perd le controle de son avatar durant le reste du niveau |
+| Intéragir avec 'Plateforme'  | Durant le jeu, le joueur met son personnage sur une plateforme pour ouvrir une porte                         |                                                                                             La plateforme change de couleur et la porte s'ouvre |                                  Un son de porte qui s'ouvre et d'activation de la plateforme se fait entendre |                                                                  La plateforme qui a un joueur dessus, va ouvrir sa porte qui est correspondante, pour ouvrir une voie à un autre joueur ou chemin |
+| Intéragir avec 'PowerUp'     | Durant le jeu, le joueur met son personnage sur un power up et obtient le pouvoir                            |                         Dépendant du power up, l'effet change, si powerup qui enlève la ligne derrière le joueur, la ligne disparait de l'écran |                                                              Un son de power up correspondant ce fait entendre | Le power up qui a un joueur dessus, va donner au joueur l'effet correspondante, si power up qui enlève la ligne du joueur, enlève la progression de sa ligne complètement et recommence à la créer |
+| S'asseoir et se Connecter    | Le joueur s'asseoit et se connecte avec son téléphone grâce à un code QR et se connecte au wifi de notre jeu | Vois son appareil qui se transforme en manette et vois qu'un nom et une couleur lui est assigné, il doit attendre que le level courant se finit |         Il entend la musique du jeu, quand il se connecte, un effet sonore se fait entendre pour tout le monde |                                                                     Ajout d'un joueur dans le jeu et connection wifi pour le joueur, mais attend le prochain niveau avant de le mettre dans le jeu |
+| Partir et se Déconnecter     | Le joueur se lève et ferme le site web sur son téléphone                                                     |    La manette n'est plus sur son téléphone, un menu temporaire montre aux autres joueurs qu'il s'est déconnecté et le niveau recommence ensuite |                                    Quand il se déconnecte, un effet sonore se fait entendre pour tout le monde |                                                                                         Enlever un joueur du jeu, montrer l'écran de déconnection et recommencer le niveau avec un joueur en moins |
 
-### 1. Ascpect technique
-- **Analyse des exigences techniques** : Définir les spécifications techniques du projet, y compris les logiciels, le matériel, les interfaces utilisateur et les protocoles de communication.  
-- **Compatibilité du système** : Vérifier si les nouvelles technologies interactives sont compatibles avec les systèmes existants.  
-- **Tests** : Effectuer des tests pour valider les fonctionnalités et l'interactivité.  
+## Scène 3
 
-### 2. Ascpect économique
-- **Estimation des coûts** : Calculer les coûts associés à l'acquisition de matériel, de logiciels, au développement et à la maintenance.  
-- **Analyse du retour sur investissement (ROI)** : Évaluer les bénéfices potentiels par rapport aux coûts engagés.  
-- **Options de financement** : Explorer les subventions, les partenariats ou les modèles économiques alternatifs.  
+| Verbe Action                                 | Condition de déclenchement                                                                                                                                                                                      |                                                                                                                                                                                                                  Effet visuel |                                                                                                              Effet sonore |                                                                Effet interactif |
+| :------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------: |
+| Le joueur réussi à terminer tous les niveaux | Réussir tous les niveaux                                                                                                                                                                                        |                                                                                                                              Il voit la scène afficher, avec le projecteur, changer du dernier niveau à une scène de victoire |                       Il entend des bruits SFX du jeu qui termine, la musique change à la musique d'ambiance de victoire. |                                          La scène change à la scène de victoire |
+| S'asseoir et se connecter                    | Un joueur s'asseoit et peut se connecter avec son téléphone grâce à un code QR qu'il va balayer et se connecte au wifi de notre jeu. L'interface de manette sur son téléphone sera afficher dans un navigateur. | Il voit son appareil qui se transforme en manette et voit qu'un nom et une couleur lui est assigné sur son appareil. Quand il est dans le menu, il peut visuellement voir tous les joueurs qui sont présentement dans le jeu. |        Il entend la musique de victoire. Quand un joueur se connecte, un effet sonore se fait entendre pour tout le monde |                 Ajout d'un joueur dans le jeu et connection wifi pour le joueur |
+| Partir et se déconnecter                     | Le joueur part et se déconnecte de son téléphone quand il perd connection du navigateur.                                                                                                                        |                                                                                                                                                              Il voit visuellement dans la scène qu'il n'est plus dans le jeu. |                            Tout le monde entend le son de déconnection d'un joueur. La musique du victoire joue toujours. |                                                 Retire d'un joueur dans le jeu. |
+| Cliquer sur 'Continuer'                      | Le(s) joueur(s) clique sur le bouton 'Continuer'                                                                                                                                                                |                                                                                                                                   Il voit la scène afficher, avec le projecteur, changer du menu principal au premier niveau. | Il entend un bruit SFX de bouton et la musique du menu qui graduellement change à la musique d'ambiance du premier niveau |                                              La scène change au premier nouveau |
+| Cliquer sur 'Recommencer'                    | Dans le menu de victoire, le joueur clique sur le bouton Recommencer                                                                                                                                            |                                                                                                                                                 Il voit visuellement que la scène change du dernier niveau au premier niveau. |                                                                             Un effet sonore de sélection se fait entendre |                                              Montre la scène du premier niveau. |
+| Cliquer sur 'Menu'                           | Dans le menu de victoire, le joueur clique sur le bouton Menu Principal                                                                                                                                         |                                                                                                                                                                                                     Affiche le menu principal |                                                                             Un effet sonore de sélection se fait entendre | Affiche le menu principal sur l'écran et reset toute les données d'avant du jeu |
 
-### 3. LES RÈGLES ET LE SYSTÈME 
+# Équipements
 
-```mermaid
-graph LR
-    Règles --> Système
-    Système --> Expérience
-```
+- Ordinateur principal sur chariot (1): PC de contrôle exécutant Unity, gère le jeu, les connexions et la projection.
 
-1. **Les règles sont les briques de base.**  
-2. **Le système applique les règles.**  
-3. **L’expérience est la perspective du joueur.**  
+- Projecteur (1): Projection murale grand format pour afficher la zone de jeu commune.
 
-### 4. Asect temporelle
-- **Planification du projet** : Établir un calendrier réaliste en tenant compte des délais de développement, de test et de déploiement.  
-- **Gestion des risques** : Identifier les risques potentiels qui pourraient retarder le projet et prévoir des plans d'urgence.  
+- Tablettes / phones (1-6): Contrôleurs utilisés par les joueurs (connexion Wi-Fi).
 
-### 5. Aspect légal et éthique
-- **Conformité réglementaire** : S'assurer que le projet respecte les lois en vigueur, notamment en matière de propriété intellectuelle et de protection des données.  
-- **Accessibilité** : Garantir que l'installation interactive est accessible à tous les utilisateur·rice·s, y compris les personnes en situation de handicap.  
+- Routeur Wi-Fi (1): Permet la connexion des téléphones si le jeu est accessible via navigateur mobile.
 
--->
+- Haut-parleurs amplifiés (2): Diffusion stéréo des sons du jeu pour renforcer l’immersion collective.
+
+- Sender / Receiver (1 chaque): Permet de connecter le cable video de l'ordinateur vers le projecteur.
+
+- Cables Ethernet (3 à 4): Connectez les matériaux à l'internet
+
+- Câbles vidéo (1): HDMI ou DisplayPort reliant le PC au projecteur.
+
+- Câbles audio (2): XLR pour relier la sortie audio aux haut-parleurs.
+
+- Câbles d’alimentation: Selon les haut-parleurs et le projecteur.
+
+- Multiprise / rallonge électrique – Pour alimenter l’ensemble du système.
+
+- Lumière Baton (2): Mettre de la lumière d'ambiance qui change avec une donné en boucle
+
+- Boite de lumière (1): Permet de brancher les lumière en daisy chain et les reliers à l'ordinateur
+
+- Ralonges pour lumières (1-2) Brancher les lumières mêmes si elles sont loins l'une et l'autre
+
+- Power supply pour boite à lumière: Donner le power à la boite à lumières
+
+- Boules de connections de lumières (2): Faire tenir les lumières droites
+
+- Carte graphique extérieur (1): Pour projeter les données vers les couleurs de lumières
+
+# Logiciels
+
+- Moteur principal : Unity (développement du jeu, gestion des manettes, affichage sur grand écran)
+
+- Langages et environnements: C#, Unity Editor, Windows (PC)
+
+- Projection: Unity en plein écran (sur projecteur)
+
+- Audio: Reaper (création, mixage et exportation des pistes sonores)
+
+- Serveur local: Intégré à Unity (connexion des téléphones via Wi-Fi ou navigateur local)
+
+- Gestion d’éclairage: Hyper HDR
+
+- Capteurs: Aucun capteur physique requis
+
+# Synoptique
+
+![](Synoptique.png)
+
+# Plan d'implantation 2D et 3D
+
+# Budget estimé
+
+| Nom du produit | Image                                                                                                                                                                                                                 | Quantités | Prix avec taxes |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
+| Pouf gonflable | [![](bean-bag.webp)](https://www.walmart.ca/en/ip/Boovnll-Bean-Bag-Chair-Soft-Comfortable-Portable-Foldable-Lazy-Sofa-Polyester-Chairs-Adults-Inflatable-Chair-Living-Room-Bedroom-Reading/51GE8UZ5TOCL)              | 6         | 275,94$         |
+| Néon customisé | [![](custom_neon.webp)](https://ca.shein.com/Custom-Neon-Sign-Led-Light-Neon-Sign-Bar-Custom-Name-Neon-Sign-Customized-Gifts-Personalized-Neon-Sign-Hand-Crafted-Neon-Sign-p-68086831.html?imgRatio=3-4)              | 1         | 45$             |
+| Podium code Qr | [![](podium.jpg)](https://www.amazon.ca/dp/B0CF9N38B2?ref=cm_sw_r_cso_cp_apan_dp_Q36MKEQH4RV7Y2WEJ4VM&ref_=cm_sw_r_cso_cp_apan_dp_Q36MKEQH4RV7Y2WEJ4VM&social_share=cm_sw_r_cso_cp_apan_dp_Q36MKEQH4RV7Y2WEJ4VM&th=1) | 1         | 39,08$          |
+| Router         | ![](router.avif)                                                                                                                                                                                                      | 1         | 100$            |
+| Total          |                                                                                                                                                                                                                       |           |                 |

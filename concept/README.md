@@ -65,7 +65,9 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
 
 ### L'aspect social
 
-Le jeu crée des interactions directes: on parle, on négocie des stratégies, on s'excuse quand on bloque un coéquipier, on se répartit les rôles. Les boucles d'essai-erreur favorisent l'écoute et la bienveillance: on observe ce qui a raté, on propose une autre approche, on réessaie. La règle de redémarrage collectif renforce l'entraide et évite le chacun pour soi. L'entrée en matière est simple (prendre une manette, bouger), ce qui inclut rapidement des profils variés et met l'accent sur la collaboration plutôt que la performance individuelle. Peu à peu, la confiance s'installe: les joueurs anticipent les mouvements des autres, communiquent mieux et vivent une réussite commune qui rapproche le groupe.
+Dans ***TERMINAL***, de un à six opérateurs se connectent à un ancien système informatique en veille, vestige d’un réseau oublié. Leur mission : réactiver les passerelles du terminal et rétablir la circulation des données perdues. Chaque niveau correspond à un secteur corrompu qu’il faut restaurer en atteignant la sortie, tout en évitant les pièges, les zones d’erreur et les fragments instables du code.
+
+Chaque mouvement laisse une trace lumineuse persistante, une ligne de données qui façonne le monde mais peut aussi le bloquer. Les joueurs doivent donc planifier, communiquer et ajuster leurs trajectoires pour ne pas piéger les autres. Seul, l’interacteur affronte la logique du système ; à plusieurs, ils apprennent à synchroniser leurs actions pour reconstruire l’ordre du réseau.
 
 <!-- 
 comment votre idée de projet correspond au thème du SOCIAL 
@@ -92,12 +94,28 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
   allowfullscreen>
 </iframe>
 
+
 ![](inspirations.webp)
 
 ![](palette.webp)
 
-![](controller.webp)
+[SFX Menu](sfx_menu.mp3)
+[SFX Interface](sfx_interface.mp3)
+[SFX Interface 2](sfx_interface_2.mp3)
+[SFX Glitch](sfx_glitch.mp3)
+[SFX Glitch](sfx_glitch_2.mp3)
+[SFX A](sfx_a.mp3)
+[SFX B](sfx_b.mp3)
+[SFX Distort](sfx_distort.mp3)
+[SFX Text Alert](sfx_text_alert.mp3)
+[SFX Completed](sfx_completed.mp3)
+[SFX Ambiance](sfx_ambiance.mp3)
+[SFX Data Processing](sfx_data_processing.mp3)
+[SFX Eliminated](sfx_eliminated.mp3)
+[SFX Ambiance Menu](sfx_ambiance_menu.mp3)
+[Background music](bg_music.mp3)
 
+![](controller.webp)
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
@@ -118,11 +136,13 @@ Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
 
-
 ### Inspirations interactives
 
-<!-- Inclure des liens et une ligne sur pourquoi -->
+#### [Lien vers un jeu inspirant](https://www.twoplayergames.org/game/tron)
 
+#### [Lien vers un jeu inspirant](https://hungryum.itch.io/encom)
+
+<!-- Inclure des liens et une ligne sur pourquoi -->
 
 ## Scénarimage
 
