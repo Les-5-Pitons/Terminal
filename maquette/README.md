@@ -95,6 +95,16 @@
 
 # Synoptique
 
+![](Synoptique.png)
+
 # Plan d'implantation 2D et 3D
 
 # Budget estimé
+
+| Nom du produit | Image                                                                                                                                                                                                                 | Quantités | Prix avec taxes |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
+| Pouf gonflable | [![](bean-bag.webp)](https://www.walmart.ca/en/ip/Boovnll-Bean-Bag-Chair-Soft-Comfortable-Portable-Foldable-Lazy-Sofa-Polyester-Chairs-Adults-Inflatable-Chair-Living-Room-Bedroom-Reading/51GE8UZ5TOCL)              | 6         | 275,94$         |
+| Néon customisé | [![](custom_neon.webp)](https://ca.shein.com/Custom-Neon-Sign-Led-Light-Neon-Sign-Bar-Custom-Name-Neon-Sign-Customized-Gifts-Personalized-Neon-Sign-Hand-Crafted-Neon-Sign-p-68086831.html?imgRatio=3-4)              | 1         | 45$             |
+| Podium code Qr | [![](podium.jpg)](https://www.amazon.ca/dp/B0CF9N38B2?ref=cm_sw_r_cso_cp_apan_dp_Q36MKEQH4RV7Y2WEJ4VM&ref_=cm_sw_r_cso_cp_apan_dp_Q36MKEQH4RV7Y2WEJ4VM&social_share=cm_sw_r_cso_cp_apan_dp_Q36MKEQH4RV7Y2WEJ4VM&th=1) | 1         | 39,08$          |
+| Router         | ![](router.avif)                                                                                                                                                                                                      | 1         | 100$            |
+| Total          |                                                                                                                                                                                                                       |           |                 |
