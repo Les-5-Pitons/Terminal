@@ -94,11 +94,10 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
   allowfullscreen>
 </iframe>
 
+
 ![](inspirations.webp)
 
 ![](palette.webp)
-
-![](controller.webp)
 
 [SFX Menu](sfx_menu.mp3)
 [SFX Interface](sfx_interface.mp3)
@@ -116,7 +115,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 [SFX Ambiance Menu](sfx_ambiance_menu.mp3)
 [Background music](bg_music.mp3)
 
-
+![](controller.webp)
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
@@ -137,11 +136,13 @@ Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
 
-
 ### Inspirations interactives
 
-<!-- Inclure des liens et une ligne sur pourquoi -->
+#### [Lien vers un jeu inspirant](https://www.twoplayergames.org/game/tron)
 
+#### [Lien vers un jeu inspirant](https://hungryum.itch.io/encom)
+
+<!-- Inclure des liens et une ligne sur pourquoi -->
 
 ## Scénarimage
 
