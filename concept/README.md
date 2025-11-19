@@ -13,12 +13,12 @@
 </iframe>
 
 <!-- Méthode 2, plug legit -->
-<!-- 
+<!--
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
 <!-- Méthode 3 (vidéo local) -->
-<!-- 
+<!--
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
 
@@ -30,7 +30,7 @@ En entrant dans le grand studio, les personnes prennent une manette et regardent
 
 En entrant dans le studio, l'interacteur prend une manette et voit son curseur coloré apparaître sur la projection. Les premiers niveaux tutoriels lui montre l'essentiel: se déplacer au joystick et maintenir un bouton pour activer des éléments. Il expérimente, réalise que sa trace reste et devient un obstacle, puis ajuste sa trajectoire et son rythme. Très vite, il se coordonne avec les autres: annoncer son passage, ouvrir un bouton-porte pour un coéquipier, attendre la bonne fenêtre de timing face aux obstacles mobiles. À chaque élimination, toute l'équipe redémarre, ce qui pousse à observer, proposer une stratégie et mieux se synchroniser. De niveau en niveau, il découvre une nouvelle mécanique, combine celles déjà apprises, gagne en précision et en communication, jusqu'à ce que les six joueurs franchissent ensemble la sortie et enchaînent vers un niveau plus exigeant.
 
-<!-- 
+<!--
 Comportement de l’interacteur
 Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
@@ -40,23 +40,23 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 Le projet se déroule dans le grand studio avec une large projection au mur. Au sol, une zone dégagée permet aux joueurs de se regrouper devant l'écran, tandis que six manettes sont posées sur une table (ou distribuées) près de l'entrée. La lumière est douce pour garder le focus sur l'image projetée, et le son provient de haut-parleurs proches de l'écran pour renforcer la sensation d'immersion. Dans l'espace virtuel, l'aire de jeu est claire et contrastée: chaque joueur a une couleur distincte, son curseur est bien visible et sa trace l'est aussi. Les éléments interactifs (boutons, portes, obstacles mobiles) sont lisibles à distance et répondent immédiatement aux actions des manettes. Le réel et le virtuel se rejoignent simplement: la manette contrôle directement le curseur de même couleur, les retours visuels et sonores confirment chaque action.
 
-<!-- 
-description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
+<!--
+description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
 ### La progression
 
-Le premier niveau est un petit tutoriel. Ensuite, à chaque nouveau niveau, les joueurs découvre une nouvelle mécanique. Une fois toutes les mécaniques présentées, les niveaux suivants les combinent, idéalement générés aléatoirement. Plus on avance, plus les niveaux deviennent difficiles. 
+Le premier niveau est un petit tutoriel. Ensuite, à chaque nouveau niveau, les joueurs découvre une nouvelle mécanique. Une fois toutes les mécaniques présentées, les niveaux suivants les combinent, idéalement générés aléatoirement. Plus on avance, plus les niveaux deviennent difficiles.
 
 <!--  sur le temps et la progression -->
 
 ### L'aspect collectif
 
-***TERMINAL*** est pensé pour le collectif: jusqu'à six personnes jouent en même temps, avec un objectif unique et partagé. Chaque joueur contrôle un curseur, mais la trace qu'il laisse influence tout le groupe. La réussite dépend de la coordination: ouvrir un passage pour un autre, attendre son tour, choisir qui mène et qui sécurise. Si une personne est éliminée, tout le monde recommence: la responsabilité est vraiment commune. Le level design encourage la coopération avec des boutons à tenir, des timings à synchroniser et des zones étroites à négocier ensemble. Le projet transforme un groupe d'individus en une équipe qui apprend, s'ajuste et progresse ensemble.
+**_TERMINAL_** est pensé pour le collectif: jusqu'à six personnes jouent en même temps, avec un objectif unique et partagé. Chaque joueur contrôle un curseur, mais la trace qu'il laisse influence tout le groupe. La réussite dépend de la coordination: ouvrir un passage pour un autre, attendre son tour, choisir qui mène et qui sécurise. Si une personne est éliminée, tout le monde recommence: la responsabilité est vraiment commune. Le level design encourage la coopération avec des boutons à tenir, des timings à synchroniser et des zones étroites à négocier ensemble. Le projet transforme un groupe d'individus en une équipe qui apprend, s'ajuste et progresse ensemble.
 
-<!-- 
-comment votre idée de projet correspond au thème du COLLECTIF 
-Plus il y a de personnes qui peuvent interagir simultanément est un critère important ! 
+<!--
+comment votre idée de projet correspond au thème du COLLECTIF
+Plus il y a de personnes qui peuvent interagir simultanément est un critère important !
 
 Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de manière concertée pour poursuivre un objectif commun, en coopérant et en collaborant pour atteindre des buts qui seraient difficiles à réaliser individuellement.
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
@@ -65,12 +65,12 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
 
 ### L'aspect social
 
-Dans ***TERMINAL***, de un à six opérateurs se connectent à un ancien système informatique en veille, vestige d’un réseau oublié. Leur mission : réactiver les passerelles du terminal et rétablir la circulation des données perdues. Chaque niveau correspond à un secteur corrompu qu’il faut restaurer en atteignant la sortie, tout en évitant les pièges, les zones d’erreur et les fragments instables du code.
+Dans **_TERMINAL_**, de un à six opérateurs se connectent à un ancien système informatique en veille, vestige d’un réseau oublié. Leur mission : réactiver les passerelles du terminal et rétablir la circulation des données perdues. Chaque niveau correspond à un secteur corrompu qu’il faut restaurer en atteignant la sortie, tout en évitant les pièges, les zones d’erreur et les fragments instables du code.
 
 Chaque mouvement laisse une trace lumineuse persistante, une ligne de données qui façonne le monde mais peut aussi le bloquer. Les joueurs doivent donc planifier, communiquer et ajuster leurs trajectoires pour ne pas piéger les autres. Seul, l’interacteur affronte la logique du système ; à plusieurs, ils apprennent à synchroniser leurs actions pour reconstruire l’ordre du réseau.
 
-<!-- 
-comment votre idée de projet correspond au thème du SOCIAL 
+<!--
+comment votre idée de projet correspond au thème du SOCIAL
 
 Le terme « social » désigne ce qui concerne la vie en société, c’est-à-dire les relations entre les individus au sein d’un groupe organisé, ainsi que les structures, normes et institutions qui en découlent.
  Il peut s’appliquer à des aspects variés, comme la vie sociale, les groupes sociaux, les classes sociales, les rapports de production, ou encore les politiques visant à améliorer les conditions de vie des individus.
@@ -94,8 +94,9 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
   allowfullscreen>
 </iframe>
 
-
 ![](inspirations.webp)
+
+![](controller.webp)
 
 ![](palette.webp)
 
@@ -114,8 +115,6 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 [SFX Eliminated](sfx_eliminated.mp3)
 [SFX Ambiance Menu](sfx_ambiance_menu.mp3)
 [Background music](bg_music.mp3)
-
-![](controller.webp)
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
@@ -136,11 +135,15 @@ Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
 
-### Inspirations interactives
+## Inspirations interactives
 
-#### [Lien vers un jeu inspirant](https://www.twoplayergames.org/game/tron)
+### [Lien vers un jeu inspirant](https://www.twoplayergames.org/game/tron)
 
-#### [Lien vers un jeu inspirant](https://hungryum.itch.io/encom)
+![](insp_interactives_01.png)
+
+### [Lien vers un jeu inspirant](https://hungryum.itch.io/encom)
+
+![](insp_interactives_02.png)
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
