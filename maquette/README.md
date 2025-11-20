@@ -65,11 +65,11 @@
 
 - Multiprise / rallonge électrique – Pour alimenter l’ensemble du système.
 
-- Lumière Baton (2): Mettre de la lumière d'ambiance qui change avec une donné en boucle
+- Lumière Baton (2-4): Mettre de la lumière d'ambiance qui change avec une donné en boucle
 
 - Boite de lumière (1): Permet de brancher les lumière en daisy chain et les reliers à l'ordinateur
 
-- Ralonges pour lumières (1-2) Brancher les lumières mêmes si elles sont loins l'une et l'autre
+- Ralonges pour lumières (2-4) Brancher les lumières mêmes si elles sont loins l'une et l'autre
 
 - Power supply pour boite à lumière: Donner le power à la boite à lumières
 
@@ -81,13 +81,11 @@
 
 - Moteur principal : Unity (développement du jeu, gestion des manettes, affichage sur grand écran)
 
-- Langages et environnements: C#, Unity Editor, Windows (PC)
+- Langages et environnements: C#, Unity
 
 - Projection: Unity en plein écran (sur projecteur)
 
 - Audio: Reaper (création, mixage et exportation des pistes sonores)
-
-- Serveur local: Intégré à Unity (connexion des téléphones via Wi-Fi ou navigateur local)
 
 - Gestion d’éclairage: Hyper HDR
 
