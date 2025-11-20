@@ -99,15 +99,24 @@
 
 # Plan d'implantation 2D et 3D
 
+![](plan_2d_1.png)
+![](plan_2d_2.png)
+![](plan_2d_3.png)
+
+![](far.jpg)
+![](front_close.jpg)
+![](side.jpg)
+![](side_2.jpg)
+
 # Budget estimé
 
-| Nom du produit | Image                                                                                                                                                                                                                 | Quantités | Prix avec taxes |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
-| Pouf gonflable | [![](bean-bag.webp)](https://www.walmart.ca/en/ip/Boovnll-Bean-Bag-Chair-Soft-Comfortable-Portable-Foldable-Lazy-Sofa-Polyester-Chairs-Adults-Inflatable-Chair-Living-Room-Bedroom-Reading/51GE8UZ5TOCL)              | 6         | 275,94$         |
-| Néon customisé | [![](custom_neon.webp)](https://a.co/d/8bzLbKP)              | 1         | 45$             |
-| Podium code Qr | [![](podium.jpg)](https://www.wayfair.ca/fr/mobilier/pdp/ebern-designs-presentoir-avec-rangement-chene-noir-122-x-118-x-236-po-c114153473.html) | 1         | 110 $        |
-| Router         | ![](router.avif)                                                                                                                                                                                                      | 1         | 100$            |
-| Stand code Qr       | [![](stand.jpg)](https://a.co/d/52iNiN9)                                                                                                                                                                                                     | 1         | 15$          |
-| Lumière led hexagonale   | [![](wall_pad.jpg)](https://a.co/d/cRkUssI)  |8 unités        | 50$         |
-| Tapis  | [![](tapis.jpg)](https://share.google/MT5k9eNRZ9BZiHwNd)                                                                                                                                                                                                     | 1        | 30$        |
-| Total          |                |           |       625,94$          |
+| Nom du produit         | Image                                                                                                                                                                                                    | Quantités | Prix avec taxes |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- |
+| Pouf gonflable         | [![](bean-bag.webp)](https://www.walmart.ca/en/ip/Boovnll-Bean-Bag-Chair-Soft-Comfortable-Portable-Foldable-Lazy-Sofa-Polyester-Chairs-Adults-Inflatable-Chair-Living-Room-Bedroom-Reading/51GE8UZ5TOCL) | 6         | 275,94$         |
+| Néon customisé         | [![](custom_neon.webp)](https://a.co/d/8bzLbKP)                                                                                                                                                          | 1         | 45$             |
+| Podium code Qr         | [![](podium.jpg)](https://www.wayfair.ca/fr/mobilier/pdp/ebern-designs-presentoir-avec-rangement-chene-noir-122-x-118-x-236-po-c114153473.html)                                                          | 1         | 110 $           |
+| Router                 | ![](router.avif)                                                                                                                                                                                         | 1         | 100$            |
+| Stand code Qr          | [![](stand.jpg)](https://a.co/d/52iNiN9)                                                                                                                                                                 | 1         | 15$             |
+| Lumière led hexagonale | [![](wall_pad.jpg)](https://a.co/d/cRkUssI)                                                                                                                                                              | 8 unités  | 50$             |
+| Tapis                  | [![](tapis.jpg)](https://share.google/MT5k9eNRZ9BZiHwNd)                                                                                                                                                 | 1         | 30$             |
+| Total                  |                                                                                                                                                                                                          |           | 625,94$         |
