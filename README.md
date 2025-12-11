@@ -1,7 +1,7 @@
 # TERMINAL
 
 <!-- Bannderole / Bande-annonce -->
-![](banderole-bande-annonce.webp)
+![](insp_interactives_01.png)
 
 ## Description
 
