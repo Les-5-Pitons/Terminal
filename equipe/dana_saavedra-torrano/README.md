@@ -14,22 +14,51 @@
 # Planification
 
 ## Semaine 1
+- Mettre à jour le site web du projet
+- Lister les designs à faire
+- Se diviser les tâches
+
 
 ## Semaine 2
+- Les boutons ( flèches de la mannette)
+- Le visuel des joueurs
+- Les murs/portes/gates
+- Les powers up
+- Cadenas
+- Installation des bars LED
+
 
 ## Semaine 3
+- Finalisation des visuels
+- Finalisation de l'installation, donc les bars LED
+
 
 ## Semaine 4
+- Correction du travail présentais
+- Révisions du logo
+
 
 ## Semaine 5
+- Conception des niveaux
+
 
 ## Semaine 6
+- Conception des niveaux( finir les niveaux manquants)
+
 
 ## Semaine de rattrapage
+- Création de la première partie de la cinématique
+- 
+
 
 ## Semaine 7
+- Documentation
+- Bande d'annonce 
+
 
 ## Semaine 8
+- Présentation du projet
+
 
 <br>
 
@@ -40,6 +69,7 @@
 ### Lundi
 
 ### Mardi
+Remise de la planification
 
 ### Mercredi
 
@@ -56,6 +86,7 @@
 ### Mercredi
 
 ### Jeudi
+Remise maquette 1
 
 ### Vendredi
 
@@ -88,6 +119,7 @@
 ### Lundi
 
 ### Mardi
+Remise bande-annonce vidéo - dossier de presse - maquette 2
 
 ### Mercredi
 
