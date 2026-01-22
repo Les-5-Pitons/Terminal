@@ -2,7 +2,6 @@
 
 ![](../tingyung_lu.webp)
 
-
  <!--
 À la session 6, 
 - Au début de la semaine : 
@@ -12,3 +11,22 @@
     - Documentation multimédia des tâches accomplies
  -->
 
+# Planification
+
+## Semaine 1
+
+## Semaine 2
+
+## Semaine 3
+
+## Semaine 4
+
+## Semaine 5
+
+## Semaine 6
+
+## Semaine de rattrapage
+
+## Semaine 7
+
+## Semaine 8
