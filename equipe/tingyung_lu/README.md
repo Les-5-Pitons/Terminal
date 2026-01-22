@@ -14,22 +14,33 @@
 # Planification
 
 ## Semaine 1
+- Lister tout les sons du projet
 
 ## Semaine 2
+- Composer des effets sonores avec le synthétiseur
+- Installation de haut-parleurs
 
 ## Semaine 3
+- Faire des sons d'ambiance
 
 ## Semaine 4
+- Enregistrer notre narration et des bruits au studio
 
 ## Semaine 5
+- Créer des niveaux sur Unity
 
 ## Semaine 6
+- Intégrer les sons Unity
 
 ## Semaine de rattrapage
+- Test de jeu extensif
 
 ## Semaine 7
+- Travailler sur la bande d'annonce
+- Travailler sur la documentation
 
 ## Semaine 8
+- Approvisioner le projet au studio
 
 <br>
 
