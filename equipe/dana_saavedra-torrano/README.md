@@ -14,23 +14,22 @@
 # Planification
 
 ## Semaine 1
-- Mettre à jour le site web du projet
-- Lister les designs à faire
-- Se diviser les tâches
+- Mise à jour du site web du projet.
+- Planification personnelle pour les semaines prochaines.
+- Planifications des visuels à concevoir pour le jeu.
 
 
 ## Semaine 2
-- Les boutons ( flèches de la mannette)
-- Le visuel des joueurs
-- Les murs/portes/gates
-- Les powers up
-- Cadenas
-- Installation des bars LED
+- Concevoir le design des boutons directionnels de la manette.
+- Concevoir le design de chaque joueur ( 6 joueurs au total).
+- Concevoir les designs des murs et des différentes portes du jeu.
+- Concevoir les designs des pouvoirs spécials (le trail s'efface, tu peut passer à travers les murs et le temps s'arrête durant un temps déterminé).
+- Concevoir le design du cadenas pour les zones de sorties bloquées.
 
 
 ## Semaine 3
 - Finalisation des visuels
-- Finalisation de l'installation, donc les bars LED
+- Installation des lumières LED dans le gros studio.
 
 
 ## Semaine 4
