@@ -11,36 +11,66 @@
     - Documentation multimédia des tâches accomplies
  -->
 
+ <!-- 
+
+
+
+
+
+
+  -->
+
 # Planification
 
 ## Semaine 1
-- Lister tout les sons du projet
+- Envisager et lister tous les sons du projet à produire sur un fichier Word
+- Établir le projet Reaper
 
 ## Semaine 2
-- Composer des effets sonores avec le synthétiseur
 - Installation de haut-parleurs
+- Créer l'effet sonore de la connexion d'un joueur
+- Créer l'effet sonore de la déconnexion d'un joueur
+- Créer l'effet sonore de victoire
+- Créer l'effet sonore de l'arrivée à l'objectif (1 personne)
 
 ## Semaine 3
-- Faire des sons d'ambiance
+- Créer l'effet sonore de défaite
+- Créer l'effet sonore du décompte 
+- Créer l'effet sonore du recommencement de l'état du jeu
+- Créer le son d'ambiance des niveaux 1 – 5 (facile)
 
 ## Semaine 4
-- Enregistrer notre narration et des bruits au studio
+- Enregistrer la narration du cinématique au studio
+- Créer l'effet sonore de la clé
+- Créer l'effet sonore du projectile
+- Créer le son d'ambiance des niveaux 6 – 10 (moyen)
+- Créer le son d'ambiance de la cinématique d'introduction
 
 ## Semaine 5
-- Créer des niveaux sur Unity
+- Travailler sur la bande d'annonce
+- Création des niveaux 2 et 3 avec 6 difficultés selon le nombre de joueurs (12 scènes)
+- Créer le son d'ambiance de la scène d'attente
+- Créer le son d'ambiance des niveaux 11 – 15 (difficile)
 
 ## Semaine 6
-- Intégrer les sons Unity
+- Créer l'effet sonore de la porte verrouillée
+- Créer l'effet sonore de la porte laser
+- Créer l'effet sonore de la sortie verrouillée
+- Créer le son d'ambiance des niveaux 16 – 20 (très difficile)
 
 ## Semaine de rattrapage
-- Test de jeu extensif
+- Créer l'effet sonore du ¨powerup¨ #1 (Efface ligne)
+- Créer l'effet sonore du ¨powerup¨ #2 (Fantôme)
+- Créer l'effet sonore du ¨powerup¨ #3 (Arrête le temps)
+- Créer le son d'ambiance de la cinématique finale
 
 ## Semaine 7
-- Travailler sur la bande d'annonce
+- Création des niveaux 4 et 5 avec 6 difficultés selon le nombre de joueurs (12 scènes)
+- Tester le projet extensivement et gérer tous les problèmes techniques en lien avec l'audio.
 - Travailler sur la documentation
 
 ## Semaine 8
-- Approvisioner le projet au studio
+- Surveillance et maintenance des sons du projet durant les présentations afin de corriger rapidement tout problème éventuel
 
 <br>
 
