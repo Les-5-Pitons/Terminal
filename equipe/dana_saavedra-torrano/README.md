@@ -14,49 +14,49 @@
 # Planification
 
 ## Semaine 1
-- Mise à jour du site web du projet.
-- Planification personnelle pour les semaines prochaines.
-- Planifications des visuels à concevoir pour le jeu.
+- Mise à jour du site web du projet
+- Planification personnelle pour les semaines prochaines
+- Planifications des visuels à concevoir pour le jeu
 
 
 ## Semaine 2
-- Concevoir le design des boutons directionnels de la manette.
-- Concevoir le design de chaque joueur ( 6 joueurs au total).
-- Concevoir les designs des murs et des différentes portes du jeu.
-- Concevoir les designs des pouvoirs spécials (le trail s'efface, tu peut passer à travers les murs et le temps s'arrête durant un temps déterminé).
-- Concevoir le design du cadenas pour les zones de sorties bloquées.
+- Concevoir le design des boutons directionnels de la manette
+- Concevoir le design de chaque joueur ( 6 joueurs au total)
+- Concevoir les designs des murs et des différentes portes du jeu
+- Concevoir les designs des pouvoirs spécials (le trail s'efface, tu peut passer à travers les murs et le temps s'arrête durant un temps déterminé)
+- Concevoir le design du cadenas pour les zones de sorties bloquées
 
 
 ## Semaine 3
 - Finalisation des visuels
-- Installation des lumières LED dans le gros studio.
+- Installation des lumières LED dans le grand studio
 
 
 ## Semaine 4
-- Correction du travail présentais
-- Révisions du logo
+- Correction des design présentais dans la semaine 3
+- 
 
 
 ## Semaine 5
-- Conception des niveaux
+- Création des niveaux 15 et 16 avec 6 difficultés selon le nombre de joueurs (12 scènes)
 
 
 ## Semaine 6
-- Conception des niveaux( finir les niveaux manquants)
+- Créations des niveaux 17 avec 6 difficultés selon le nombre de joueurs (6 scènes)
+- Installation des beans bags dans le grand studio
 
 
 ## Semaine de rattrapage
 - Création de la première partie de la cinématique
-- 
+- Création de l'aspect visuel pour le tutoriel
 
 
 ## Semaine 7
-- Documentation
-- Bande d'annonce 
+- Travailler sur le montage vidéo de la documentation
 
 
 ## Semaine 8
-- Présentation du projet
+- Supervision et maintenance des fairys lights et des lumières LED durant la présentation du projet
 
 
 <br>
