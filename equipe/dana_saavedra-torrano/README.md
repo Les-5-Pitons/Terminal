@@ -15,48 +15,50 @@
 
 ## Semaine 1
 - Mise à jour du site web du projet
-- Planification personnelle pour les semaines prochaines
-- Planifications des visuels à concevoir pour le jeu
+- Planification personnelle pour les semaines à venir
+- Planification des visuels à concevoir pour le jeu
 
 
 ## Semaine 2
-- Concevoir le design des boutons directionnels de la manette
-- Concevoir le design de chaque joueur ( 6 joueurs au total)
-- Concevoir les designs des murs et des différentes portes du jeu
-- Concevoir les designs des pouvoirs spécials (le trail s'efface, tu peut passer à travers les murs et le temps s'arrête durant un temps déterminé)
-- Concevoir le design du cadenas pour les zones de sorties bloquées
+- Concevoir le design visuel des boutons directionnels de la manette
+- Concevoir le design visuel de chaque joueur (6 joueurs au total)
+- Concevoir les designs visuels des murs et des différentes portes du jeu
+- Concevoir le design visuel du cadenas pour les zones de sortie bloquées
 
 
 ## Semaine 3
-- Finalisation des visuels
+- Concevoir les designs des powers ups (le trail s’efface, on peut passer à travers les murs et le temps s’arrête pendant une durée déterminée)
 - Installation des lumières LED dans le grand studio
+- Planification de la direction artistique du tutoriel
+- Finalisation des designs visuels de la semaine 2
 
 
 ## Semaine 4
-- Correction des design présentais dans la semaine 3
-- 
+- Correction des designs présentés durant la semaine 3
+- Début de la création des visuels du tutoriel du jeu
+- Création du design visuel du favicon du jeu
 
 
 ## Semaine 5
-- Création des niveaux 15 et 16 avec 6 difficultés selon le nombre de joueurs (12 scènes)
+- Création des niveaux 15 et 16 avec 6 niveaux de difficulté selon le nombre de joueurs (12 scènes)
 
 
 ## Semaine 6
-- Créations des niveaux 17 avec 6 difficultés selon le nombre de joueurs (6 scènes)
-- Installation des beans bags dans le grand studio
+- Création du niveau 17 avec 6 niveaux de difficulté selon le nombre de joueurs (6 scènes)
+- Installation des 3 chaises gonflables et des guirlandes lumineuses (fairy lights) dans le grand studio
 
 
 ## Semaine de rattrapage
-- Création de la première partie de la cinématique
-- Création de l'aspect visuel pour le tutoriel
+- Création du début de la cinématique (l’histoire du jeu)
+- Finalisation du tutoriel du jeu
 
 
 ## Semaine 7
-- Travailler sur le montage vidéo de la documentation
+- Travail sur le montage vidéo de la documentation
 
 
 ## Semaine 8
-- Supervision et maintenance des fairys lights et des lumières LED durant la présentation du projet
+- Supervision et maintenance des guirlandes lumineuses (fairy lights) et des lumières LED durant la présentation du projet
 
 
 <br>
