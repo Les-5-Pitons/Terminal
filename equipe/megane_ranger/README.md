@@ -21,42 +21,50 @@
 
 ## Semaine 2
 
-- Travailler sur le menu principal: Changer les couleurs de l'ancien modèle pour la nouvelle palette de couleur et amélioration du menu si nécessaire.
-- Travailler sur l'interface du jeu: Changer les couleurs pour la nouvelle palette de couleur et de modifier l'interface du jeu.
-- Création des ennemis
-- Création des visuels des clefs
-- Création des projectiles
+- Travailler sur l’interface du jeu : changer les couleurs pour la nouvelle palette et modifier l’interface du jeu.
+- Création des ennemis.
+- Création du design des visuels des clés.
+- Création du design des projectiles.
 
 ## Semaine 3
 
-- Finalisation de tout les visuels.
-- Remise Maquette 01 - Jeudi le 5 février
+- Travailler sur le menu principal : changer les couleurs de l’ancien modèle pour la nouvelle palette et améliorer le menu si nécessaire.
+- Finalisation de tous les visuels.
+- Commencer la direction artistique du logo.
+- Création du storyboard de l’histoire.
+- Installation du spotlight et installation du projecteur.
+- Remise Maquette 01 – Jeudi 5 février.
 
 ## Semaine 4
 
-- Correction des éléments visuels
-- Création du logo
+- Correction et amélioration des éléments visuels.
+- Création du design visuel pour l’histoire.
+- Commencer la création du logo.
 
 ## Semaine 5
 
-- Créer les nouveaux niveaux du jeu sur Unity
+- Créer les 12 difficultés des niveaux 18 et 19 du jeu sur Unity.
 
 ## Semaine 6
 
-- Finaliser les niveaux du jeu
-- Installation des fairys lights et le spotlight amricain dj et gonffler 3 bean bag
+- Créer les 6 difficultés du niveau 20 du jeu sur Unity.
+- Faire une dernière inspection de tous les niveaux pour s’assurer qu’il n’y a pas de bugs.
+- Installation du spotlight et des 3 chaises gonflables.
 
 ## Semaine de rattrapage
 
-- Création de la deuxième partie de la cinématique
+- Création de la deuxième partie de la cinématique.
 
 ## Semaine 7
 
-- Création de la bande annonce et de la documentation.
+- Création du montage vidéo de la bande-annonce.
+- Ajout des visuels au montage vidéo de la bande-annonce.
 
 ## Semaine 8
 
-- Présentaion final
+- Présentation finale.
+- Supervision de l’installation.
+- Gérer le spotlight et le projecteur en cas de problème pouvant survenir lors de la présentation.
 
 <br>
 
