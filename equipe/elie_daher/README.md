@@ -26,13 +26,13 @@
 - Ajout du système : “Prêt” -> Décompte -> Début du jeu
 - Intégration des commandes "gauche , droite" dans Unity
 - Création d’un premier canevas du contrôleur (HTML/CSS simple)
+- Début de combination téléphone + jeu Unity pour tester sur niveau 1 (version 1-6 opérateurs, 6 scènes)
 - Tests réseau avec 2–3 téléphones pour valider la stabilité des connexions
-- Début de la création de niveau 1 (version 1-6 opérateurs, 6 scènes)
 
 ## Semaine 3
 
 - Stabilisation du contrôleur pour la démo publique (aucune perte de connexion)
-- Amélioration du visuel minimal du contrôleur (plus propre pour l’événement)
+- Amélioration du visuel minimal du contrôleur (pour la version démo)
 - Feedback visuel des boutons (animation, changement d’état “Prêt”)
 - Installation des cables et du projecteur dans le studio pour la démo
 - Tests 6 joueurs pour vérifier la stabilité du réseau
@@ -42,7 +42,7 @@
 - Refonte plus propre du code WebSocket (structures, commentaires, simplification)
 - Tests pour l’intégration de vibrations/haptique sur mobile (si compatible navigateur)
 - Travail sur le responsive du contrôleur pour différents modèles de téléphones
-- Création de niveaux supplémentaires (variantes selon nombre de joueurs)
+- Ajout des messages d’erreur (perte de connexion, serveur plein, etc.)
 
 ## Semaine 5
 
@@ -54,16 +54,14 @@
 ## Semaine 6
 
 - Finalisation visuelle du contrôleur (animations, transitions, icônes)
-- Ajout des messages d’erreur (perte de connexion, serveur plein, etc.)
-- Création d’un module debug Unity (contrôler un opérateur sans téléphone)
 - Création des niveaux 6, 7, 8 avec 6 difficultés selon le nombre de joueurs (18 scènes)
 - Contribution à la vidéo de documentation du projet : captation du processus de développement WebSocket (tests, réseau, configuration routeur), explication des étapes techniques, et fourniture d’extraits montrant l’évolution du contrôleur mobile pour la production finale.
 
 ## Semaine de rattrapage
 
 - Création des niveaux 9, 10, 11 avec 6 difficultés selon le nombre de joueurs (18 scènes)
-- Ajustements du contrôleur suite aux retours de l’enseignante et de l’équipe
-- Correction de bogues réseau en situation réelle (tests avec routeur + studio)
+- Ajustements du contrôleur suite aux retours des enseignants et de l’équipe
+- Vérification/Correction de bogues réseau en situation réelle (tests avec routeur + studio)
 - Améliorations UX sur mobile (taille boutons, anti-zoom, zones mortes dépendant de la taille de l'écran)
 - Rédaction d’un guidebook complet et infaillible pour l’installation et l’opération du projet durant la semaine de présentation : étapes pour lancer Unity, configurer l’adresse IP, démarrer le serveur WebSocket, brancher le routeur, générer le code QR, tester un téléphone, et procédures de dépannage. Ce guide permettra à n’importe quel membre (ou personne externe) d’opérer le système seul.
 
@@ -71,7 +69,6 @@
 
 - Tests intensifs multi-joueurs (5–6 joueurs simultanés)
 - Documentation complète du système WebSocket (diagrammes + explications)
-- Création des niveaux 9 et 10 + versions multi-joueurs
 - Ajustements finaux sur la réactivité du contrôleur selon les besoins du gameplay
 - Participation à la création de la bande-annonce : captation des séquences de jeu en réseau, enregistrement du fonctionnement du contrôleur mobile, sélection des moments clés et remise du matériel visuel/vidéo à l’équipe de montage.
 
@@ -81,7 +78,6 @@
 - Corrections rapides des bogues réseau à chaud
 - Supervision de l’installation (QR codes, connexion téléphones, poste Unity)
 - Assistance technique lors des démos publiques
-- Livraison finale du contrôleur + documentation + niveaux terminés
 
 <br>
 
