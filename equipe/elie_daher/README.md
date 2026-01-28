@@ -87,7 +87,13 @@
 
 ### Lundi
 
+Aucun avancement
+
 ### Mardi
+
+Tentative de configuration du routeur et du système WebSocket pour permettre aux téléphones de se connecter au contrôleur Unity. Plusieurs tests réseau effectués mais toujours pas fonctionnel,problème non résolu pour l’instant.
+
+J’ai aussi amélioré un peu le contrôleur mobile : ajustements du responsive, ajout du mode paysage forcé, et simplification de l’interface (2 flèches au lieu de 4).
 
 ### Mercredi
 
