@@ -76,7 +76,11 @@
 
 ### Lundi
 
+- Terminer la planification de la session.
+
 ### Mardi
+
+- Les modifications de l'interface du jeu est terminé.
 
 ### Mercredi
 
