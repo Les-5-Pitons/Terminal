@@ -69,8 +69,11 @@
 
 ### Lundi
 
+Finalisation de la planification
+
 ### Mardi
 Remise de la planification
+Conception de l’image (design visuel) du cadenas représentant les zones bloquées à l’aide d’Adobe Illustrator.
 
 ### Mercredi
 
