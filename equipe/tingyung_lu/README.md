@@ -79,10 +79,17 @@
 ## Semaine 2
 
 ### Lundi
+- Reporté travail pour mardi
 
 ### Mardi
+- Crée l'effet sonore de connection 
+- Crée l'effet sonore de déconnection
+- Commencé l'effet sonore de la victoire
 
 ### Mercredi
+- Finalisé l'effet sonore de la victoire
+- Commencé l'effet sonore de l'arrivée à l'objectif d'un joueur 
+
 
 ### Jeudi
 
