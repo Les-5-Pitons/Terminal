@@ -96,9 +96,23 @@
 
 ### Lundi
 
+- Création du Github Terminal-Unity
+- Création du Jeu initial Unity
+
 ### Mardi
 
+- Création des premiers dossiers pour bien mettre nos éléments dans le futur
+- Création du script Opérateur (joueur) avec tout les données publiques qui sert à l'utilisation et le futur controle avec les manettes téléphones
+- Dans le même script, les trails sont créer pendant que ceux-ci bouge et deviennent des obstacles
+- Création du préfab de l'opérateur pour qu'on puisse modifier le positionnement des opérateur à notre guise et modifier ses valeurs
+- Commencement du script Game Manager, qui sert pour savoir quand les joueurs finissent le niveau
+
 ### Mercredi
+
+- Finalisation du script Game manager qui permet de faire perdre ou gagner les joueurs dépendant du déroulement du jeu
+- Création du script de Zone de fin, qui sert à savoir quand les joueurs finissent le niveau
+- Création du préfab de la zone de fin, qui nous permet publiquement de changer sa position, grosseur et si il commence verouillé, si il va se vérouiller, et combien de personne qui a besoin avant de changer ses valeurs
+- Création de 3 murs, mur fix, mur qui bouge, et mur qui tourne, le mur qui bouge, permet de choisir sa direction et vitesse, pareil pour lui qui tourne. On peux changer la grosseur et emplacement à notre guise
 
 ### Jeudi
 
