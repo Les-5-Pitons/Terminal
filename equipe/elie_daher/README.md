@@ -97,7 +97,26 @@ J’ai aussi amélioré un peu le contrôleur mobile : ajustements du responsive
 
 ### Mercredi
 
+Journée complète de troubleshooting réseau pour réussir un mode LAN-only stable avec le mini-routeur (téléphones sans internet, accès uniquement au contrôleur).
+
+J’ai identifié un comportement clé : le routeur n’autorise pas correctement le trafic Wi-Fi vers le PC tant qu’il n’a pas “vu” le WAN lors d’un boot/reboot.
+
+Solution trouvée et testée :
+
+- Brancher LAN + WAN, puis faire un reboot dans l’interface du routeur. Ensuite, débrancher le WAN : les téléphones peuvent accéder au serveur Unity/contrôleur.
+- Variante : démarrer avec LAN seulement, faire un reboot, puis brancher le WAN 1 à 2 secondes et le retirer. Ça “débloque” l’accès LAN-only.
+
+Objectif de la journée : retirer les étapes inutiles et rendre la procédure la plus simple possible. J’ai laissé le serveur et le routeur en fonctionnement 24/7 à l’école pour valider la stabilité (vendredi : vérifier si tout tient ou si de nouveaux bugs apparaissent).
+
+Côté contrôleur : amélioration UI vers une version démo minimale avec 2 gros boutons (gauche/droite). Intégration fonctionnelle du flow :
+
+- bouton Pret puis Unity détecte l’état
+- décompte avant le début
+- gestion des départs : si tous les joueurs quittent ou refresh, Unity affiche dans la console que tous les joueurs ont quitté
+
 ### Jeudi
+
+Aucun avancement.
 
 ### Vendredi
 
